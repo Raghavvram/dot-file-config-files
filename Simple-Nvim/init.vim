@@ -122,7 +122,7 @@ let g:python_highlight_all          = 1
 "──────────────────────────────────────────────────────────────────────────────
 " FIXED: Airline Configuration - Use default theme map to Catppuccin
 "──────────────────────────────────────────────────────────────────────────────
-let g:airline_theme                 = 'simple'  " FIXED: Use built-in theme
+let g:airline_theme                 = 'onedark'
 let g:airline#extensions#tabline#enabled = 1
 
 "──────────────────────────────────────────────────────────────────────────────
